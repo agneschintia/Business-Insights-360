@@ -1,5 +1,8 @@
 # Business-Insights-360
 
+Here's the novyPro link: https://www.novypro.com/project/business-insights-360-83
+
+
 ### Project Overview
 
 AtliQ Hardware is experiencing rapid growth in recent years, AtliQ has recognized the pivotal role of data analytics in gaining a competitive edge in the market. The company has embarked on a transformative journey by deciding to implement Power BI for comprehensive data analysis, marking their first exploration harnessing the power of business intelligence tools. The primary goal of this initiative is to enable data-driven decision-making across various facets of the organization, including finance, sales, marketing, and supply chain.
